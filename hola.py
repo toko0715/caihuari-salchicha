@@ -4,9 +4,11 @@ def greet(name):
 def add(a, b):
     return a + b
 
-
 #jheremy :v
 def saludar():
     print("hola caihuari")
     print( "CULO DE JHEREMY")
     print("TU JERMA ME LA COMO")
+
+def dormir():
+    print("quiero dormir")
