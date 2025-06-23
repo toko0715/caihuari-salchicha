@@ -12,3 +12,7 @@ def saludar():
 
 def dormir():
     print("quiero dormir")
+
+
+def cachar():
+    print("quiero cachar")
