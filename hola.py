@@ -8,3 +8,5 @@ def add(a, b):
 #jheremy :v
 def saludar():
     print("hola caihuari")
+    print( "CULO DE JHEREMY")
+    print("TU JERMA ME LA COMO")
